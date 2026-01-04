@@ -50,3 +50,8 @@ You can trigger specific skills by asking questions related to their domain. For
 ## 📜 License
 
 Most skills include their own `LICENSE.txt` file within their respective directories. Please refer to individual skill folders for licensing details.
+
+## 📚 References
+
+- [Kilo Code Agent Skills Documentation](https://kilo.ai/docs/features/skills)
+- [Anthropic Agent Skills GitHub Repository](https://github.com/anthropics/skills)
